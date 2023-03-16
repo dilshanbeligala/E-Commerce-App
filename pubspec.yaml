@@ -63,6 +63,10 @@ flutter:
   assets:
     - images/splash.jpg
     - images/background.jpg
+    - images/beauty.jpg
+    - images/clothes.jpg
+    - images/perfume.jpg
+    - images/glass.jpg
   #   - images/a_dot_ham.jpeg
 
   # An image asset can refer to one or more resolution-specific "variants", see
